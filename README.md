@@ -91,10 +91,10 @@ Este projeto foi desenvolvido como parte de um desafio pessoal e é uma demonstr
 
 ## 📄 Licença
 
-[Seu projeto pode ter uma licença, como MIT. Se sim, adicione aqui. Caso contrário, você pode remover esta seção ou adicionar um aviso de "Todos os direitos reservados".]
+Todos os direitos reservados.
 
 ## 📞 Contato
 
-[Seu nome/nickname] - [Seu email ou link para seu perfil no LinkedIn/GitHub]
+Maria Vitoria - www.linkedin.com/in/maria-vitória-9865b7284
 
 ---
